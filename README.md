@@ -7,3 +7,7 @@
 | José Martins      | 202108794 | up202108794@up.pt  |
 
 ----
+
+  - [Project 1](tp1/)
+  - [Project 2](tp2/)
+  - [Project 3](tp3/)
